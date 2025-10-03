@@ -1,0 +1,5 @@
+{
+  "name": "復古小瑪莉水果盤 (Retro Fruit Machine)",
+  "description": "A web-based simulation of the classic Taiwanese 'Little Mary' (小瑪莉) slot machine game, popular from the 70s to the 90s. Players bet on various fruits and symbols, watch the running light, and hope to land on a winning item. The game features classic betting, a double-or-nothing 'Big/Small' side game, and special bonus events.",
+  "requestFramePermissions": []
+}
